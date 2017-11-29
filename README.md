@@ -10,7 +10,10 @@ Filter JSON by given conditions and attributes, output in CSV format.
 
 * `RebootDBInstance.json` will be the input file
 
->  {a:1, b:2, ...}
->  {a:"one", b:"two", ...}
->  {...}
->  {...}
+* Example:
+```json
+{a:1, b:2, ...}
+{a:"one", b:"two", ...}
+{...}
+{...}
+```
