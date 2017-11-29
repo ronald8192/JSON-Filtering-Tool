@@ -1,0 +1,26 @@
+a:link {
+	color: #555;
+}
+a:visited {
+	color: #333;
+}
+a:hover {
+	color: #333;
+	text-decoration: none;
+	text-shadow: 1px 1px 1px #bbb
+}
+a:active {
+	color: #333;
+}
+html{
+	padding: 8px;
+}
+.hidden{
+	display: none;
+}
+.filter-conditions-item{
+	margin-top: 8px;
+}
+#selected-file-name{
+	margin-left: 8px;
+}
